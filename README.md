@@ -15,5 +15,5 @@ Python, Streamlit, Google Gemini API, Google Colab, ngrok
 ## Live App Link
 (https://aistudybuddy1.streamlit.app/)
 
-## Note
-This app runs through Google Colab and ngrok, so the link works while the Colab runtime is active.
+---
+<p align="center"><i>~ Built this Capstone Project for Infosys Springboard</i></p>
