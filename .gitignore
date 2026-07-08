@@ -1,0 +1,11 @@
+@'
+__pycache__/
+*.pyc
+.env
+.env.*
+.streamlit/secrets.toml
+.vscode/
+*.log
+nohup.out
+*.zip
+'@ | Set-Content -Encoding UTF8 .gitignore
