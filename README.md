@@ -13,7 +13,7 @@ AI Study Buddy is a Streamlit-based AI learning web app built using Python, Goog
 Python, Streamlit, Google Gemini API, Google Colab, ngrok
 
 ## Live App Link
-https://amperage-papaya-saga.ngrok-free.dev/
+(https://aistudybuddy1.streamlit.app/)
 
 ## Note
 This app runs through Google Colab and ngrok, so the link works while the Colab runtime is active.
