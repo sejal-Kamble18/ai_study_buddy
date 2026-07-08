@@ -16,4 +16,4 @@ Python, Streamlit, Google Gemini API, Google Colab, ngrok
 (https://aistudybuddy1.streamlit.app/)
 
 ---
-<p align="center"><i>~ Built this Capstone Project for Infosys Springboard</i></p>
+<p align="center"><i>~ Built this Capstone Project for Infosys Springboard AI EMPOW(H)ER</i></p>
